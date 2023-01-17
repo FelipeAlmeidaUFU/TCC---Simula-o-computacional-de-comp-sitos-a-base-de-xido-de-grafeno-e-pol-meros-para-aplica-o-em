@@ -1,0 +1,20 @@
+#################Bem vindo###########################
+#Não altere o nome do arquivo
+#O arquivo .xyz deve possuir o nome data.xyz
+
+Porcentagem do buraco central:
+0
+Porcentagm de Epoxi:
+5
+Porcentagem de Hidroxila:
+5
+Porcentagem de carboxila:
+0.0
+Porcentagem de carbonila:
+0.0
+Porcentagem de buracos:
+0.0
+Porcentagem de agua:
+0.0
+Inserir Folha de Celulose? (1 Sim || 2 Não)\n");
+2
